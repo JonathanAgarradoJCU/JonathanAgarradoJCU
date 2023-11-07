@@ -1,18 +1,16 @@
-<h1 align="center">Kamusta! I'm Jonathan Roi Ferrer Agarrado.</h1>
+<h1 align="center"><i>Kamusta!</i> I'm Jonathan Roi Ferrer Agarrado.</h1>
 <h3 align="center">Aspiring Full-Stack Developer</h3>
 
-- 🌱 I’m currently learning: **Rust, Django, Flask**
-
-- 💬 Ask me about: **Python, HTML, CSS, JS**
-
-- 📫 Reach me here: **tigerdalandan (Discord)**
-
-- ⚡ Fun fact: **I ran my first two 42.195km marathons when I was 18!**
+<ul>
+<li>I’m currently learning: **Rust, Django, Flask**</li>
+<li>Ask me about: **Python, HTML, CSS, JS**</li>
+<li>Fun fact: **I ran my first two 42.195km marathons when I was 18!**</li>
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jonathan-roi-ferrer-agarrado/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jonathan-roi-ferrer-agarrado/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/jon.agarrado" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/jon.agarrado" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jonathan-roi-ferrer-agarrado/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jonathan-roi-ferrer-agarrado/" height="30" width="40" /></a>
+<a href="https://fb.com/jon.agarrado" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/jon.agarrado" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
