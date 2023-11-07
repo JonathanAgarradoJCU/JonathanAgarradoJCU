@@ -2,9 +2,9 @@
 <h3 align="center">Aspiring Full-Stack Developer</h3>
 
 <ul>
-<li>I’m currently learning: **Rust, Django, Flask**</li>
-<li>Ask me about: **Python, HTML, CSS, JS**</li>
-<li>Fun fact: **I ran my first two 42.195km marathons when I was 18!**</li>
+<li>I’m currently learning: <b>Rust, Django,</b> and <b>Flask</b></li>
+<li>Ask me about: <b>Python, HTML, CSS,</b> and <b>JS</b></li>
+<li>Fun fact: I ran my first two 42.195km marathons when I was 18!</li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>
