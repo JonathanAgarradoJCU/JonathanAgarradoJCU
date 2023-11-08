@@ -1,7 +1,7 @@
 <h1 align="center"><i>Kamusta!</i> I'm Jonathan Roi Ferrer Agarrado.</h1>
 <h3 align="center">Aspiring Full-Stack Developer</h3>
 
-<ul align="center">
+<ul align="center" style="list-style-type: none;">
 <li>I’m currently learning: <b>MySQL, Rust, Django,</b> and <b>Flask</b></li>
 <li>Ask me about: <b>Python, HTML, CSS,</b> and <b>JS</b></li>
 <li>Fun fact: I ran my first two 42.195km marathons when I was 18!</li>
