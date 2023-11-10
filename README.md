@@ -37,3 +37,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonathanagarradojcu&show_icons=true&locale=en&layout=compact" alt="jonathanagarradojcu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jonathanagarradojcu&" alt="jonathanagarradojcu" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=jonathanagarradojcu&" alt="jonathanagarradojcu" /></p>
