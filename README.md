@@ -38,4 +38,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jonathanagarradojcu&" alt="jonathanagarradojcu" /></p>
 
-[![Jonathan's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jonathanagarradojcu)](https://github.com/anuraghazra/github-readme-stats)
+[![Jonathan's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JonathanAgarradoJCU)](https://github.com/anuraghazra/github-readme-stats)
