@@ -1,5 +1,6 @@
 [![wakatime](https://wakatime.com/badge/user/018bba68-1bf4-46ce-8fc7-13dac0a52b74.svg)](https://wakatime.com/@018bba68-1bf4-46ce-8fc7-13dac0a52b74)
 [![github](https://img.shields.io/github/followers/jonathanagarradojcu?logo=github&style=plastic)](https://github.com/jonathanagarradojcu?tab=followers)
+![](https://komarev.com/ghpvc/?username=JonathanAgarradoJCU&color=orange)
 <h1 align="center"><i>Kamusta!</i> I'm Jonathan Roi Ferrer Agarrado.</h1>
 <h3 align="center">Aspiring Full-Stack Developer</h3>
 
