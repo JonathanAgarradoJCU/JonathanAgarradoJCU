@@ -5,7 +5,7 @@
 <h3 align="center">Aspiring Full-Stack Developer</h3>
 
 <ul align="center" style="list-style-type: none;">
-<p>I’m currently learning: <b>MySQL, C++, Rust,</b> and <b>Django</b></p>
+<p>I’m currently learning: <b>MySQL, C++, Rust, Java</b> and <b>C# (for Unity)</b></p>
 <p>Ask me about: <b>Python, HTML, CSS,</b> and <b>JS</b></p>
 <p>Fun fact: I ran my first two <b>42.195</b>km marathons when I was <b>18!</b></p>
 </ul>
